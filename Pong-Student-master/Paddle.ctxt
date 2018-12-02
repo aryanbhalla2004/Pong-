@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Paddle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Paddle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=isLeft
+comment1.target=Paddle(boolean)
+comment1.text=\r\n\ Paddle\ is\ a\ consuctor\ bassed\ on\ what\ side\ it\ is\ on\ it\ will\ mode.\r\n\ upKey\ and\ downKey\ are\ refderd\ to\ as\ w\ and\ s\ and\ for\ play\ two\ in\ is\ refferd\ to\ up\ key\ and\ down\ key.\r\n\ \r\n\ @param\ There\ is\ a\ isLeft\ paramenter\ is\ boolean.\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Paddle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ checkKeyPress\ is\ a\ method\ at\ is\ check\ if\ the\ upkey\ and\ downKey\ is\ pressed.\ if\ it\ is,\ it\ will\ change\ the\ y\ value\ of\ the\ paddle\ by\ adding\ and\ substracting.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=4
